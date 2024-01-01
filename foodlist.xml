@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <foodlist>
 
-    <fooditem>
+    <fooditem type="Italian">
         <name>Pizza</name>
         <cost>8$</cost>
     </fooditem>
