@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<organization>
+
+    <department xmlns:s="http//www.employees.com/emplyees">
+        <s:name>Fatima</s:name>
+        <s:salary>20000</s:salary>
+    </department>
+
+    <department xmlns:s="http//www.employees.com/emplyees">
+        <s:name>Fatima</s:name>
+        <s:salary>20000</s:salary>
+    </department>
+
+    <department xmlns:s="http//www.employees.com/emplyees">
+        <s:name>Fatima</s:name>
+        <s:salary>20000</s:salary>
+    </department>
+
+</organization>

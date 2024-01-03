@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="three.xsl" type="text/xsl"?>
+
+<class>
+    <student>
+        <name>Fatima</name>
+        <age>18</age>
+        <number>7867895473</number>
+        <grade>A</grade>
+    </student>
+    <student>
+        <name>Fatima</name>
+        <age>18</age>
+        <number>7867895473</number>
+        <grade>A</grade>
+    </student>
+    <student>
+        <name>Fatima</name>
+        <age>18</age>
+        <number>7867895473</number>
+        <grade>A</grade>
+    </student>
+    <student>
+        <name>Fatima</name>
+        <age>18</age>
+        <number>7867895473</number>
+        <grade>A</grade>
+    </student>
+</class>
