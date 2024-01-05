@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="practice3.xsl" type="text/xsl"?>
+
+<collection>
+    <cds>
+        <title>Empire Burlesque</title>
+        <artist>Bob Dylan</artist>
+    </cds>
+
+    <cds>
+        <title>Hide Your Heart</title>
+        <artist>Bonnie Tylor</artist>
+    </cds>
+
+    <cds>
+        <title>Greatest Hits</title>
+        <artist>Dolly Parton</artist>
+    </cds>
+
+    <cds>
+        <title>Still Got The Blues</title>
+        <artist>Gray Moore</artist>
+    </cds>
+
+    <cds>
+        <title>Eros</title>
+        <artist>Eros Ramazottii</artist>
+    </cds>
+
+    <cds>
+        <title>One Night Only</title>
+        <artist>Bee Gates</artist>
+    </cds>
+
+    <cds>
+        <title>Sylvias Mother</title>
+        <artist>Dr.Hook</artist>
+    </cds>
+
+    <cds>
+        <title>Maggie May</title>
+        <artist>Rod Stewart</artist>
+    </cds>
+
+    <cds>
+        <title>Romanza</title>
+        <artist>Andrea Bocelli</artist>
+    </cds>
+
+    <cds>
+        <title>When a man Loves a woman</title>
+        <artist>Percy Sledge</artist>
+    </cds>
+
+    <cds>
+        <title>Black Angel</title>
+        <artist>Savage Rose</artist>
+    </cds>
+
+    <cds>
+        <title>19999 Grammy Nominies</title>
+        <artist>Many</artist>
+    </cds>
+
+    <cds>
+        <title>For the Good Times</title>
+        <artist>Kenny Rogers</artist>
+    </cds>
+
+    <cds>
+        <title>Big Willie Style</title>
+        <artist>Will Smith</artist>
+    </cds>
+
+    <cds>
+        <title>Tupelo Honey</title>
+        <artist>Van Morrison</artist>
+    </cds>
+
+    <cds>
+        <title>Soulsville</title>
+        <artist>Jorn Hoel</artist>
+    </cds>
+
+    <cds>
+        <title>The very best of</title>
+        <artist>Cat atevens </artist>
+    </cds>
+
+    <cds>
+        <title>Stop</title>
+        <artist>Sam Brown</artist>
+    </cds>
+
+    <cds>
+        <title>Bridge Of Spies</title>
+        <artist>T pau</artist>
+    </cds>
+</collection>

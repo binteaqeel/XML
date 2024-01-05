@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="practice2.xsl" type="text/xsl"?>
+
+<office>
+    <empolyee>
+        <id>10234</id>
+        <name>SALMAN</name>
+        <salary>50000</salary>
+        <joiningdate>2-2-2015</joiningdate>
+        <position>MANAGER</position>
+    </empolyee>
+    <employee>
+        <id>10235</id>
+        <name>IBRAHIM</name>
+        <salary>200000</salary>
+        <joiningdate>3-2-2015</joiningdate>
+        <position>CEO</position>
+    </employee>
+    <employee>
+        <id>10236</id>
+        <name>ASIM</name>
+        <salary>50000</salary>
+        <joiningdate>4-2-2015</joiningdate>
+        <position>MANAGER</position>
+    </employee>
+    <employee>
+        <id>10237</id>
+        <name>GHAZANFAR</name>
+        <salary>50000</salary>
+        <joiningdate>8-2-2015</joiningdate>
+        <position>MANAGER</position>
+    </employee>
+    <employee>
+        <id>10238</id>
+        <name>SAIMA</name>
+        <salary>100000</salary>
+        <joiningdate>4-2-2015</joiningdate>
+        <position>MD</position>
+    </employee>
+</office>
