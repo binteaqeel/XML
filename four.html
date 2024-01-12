@@ -13,36 +13,39 @@
                 <table class="table">
                     <tr>
                         <th>Select Product</th>
-                        <th><select class="form-control">
-                            <option>Select Anyone</option>
-                            <option>Select Anyone</option>
+                        <th class="col-lg-6"><select id="select1" class="form-control" onchange="item1(this.value)">
+                            <option value="0">Select Anyone</option>
+
                         </select></th>
-                        <th><select class="form-control">
-                            <option>Select Anyone</option>
+                        <th class="col-lg-6"><select id="select2" class="form-control" onchange="item2(this.value)">
                             <option>Select Anyone</option>
                         </select></th>
                     </tr>
                     <tr>
                         <td>Product Image</td>
-                        <td><img src="./images/HuaweiNova9-b.jpg"></td>
-                        <td><img src="./images/HuaweiNova9-b.jpg"></td>
+                        <td><img class="img-fluid" id="img1" src=""></td>
+                        <td><img class="img-fluid" id="img2" src=""></td>
                     </tr>
                     <tr>
                         <th>Product Price</th>
-                        <td>yfuyu</td><td>tytyt</td>
+                        <td id="price1"></td>
+                        <td id="price2"></td>
                     </tr>
                     <tr>
-                        <th>Product Price</th>
-                        <td>yfuyu</td><td>tytyt</td>
+                        <th>Product Brand</th>
+                        <td id="brand1"></td>
+                        <td id="brand2"></td>
                     </tr>
                     <tr>
-                        <th>Product Price</th>
-                        <td>yfuyu</td><td>tytyt</td>
+                        <th>Product Description</th>
+                        <td id="decs1"></td>
+                        <td id="decs2"></td>
                     </tr>
                 </table>
             </div>
         </div>
     </div>
     <script src="./data.js"></script>
+    <script src="./four.js"></script>
 </body>
 </html>
